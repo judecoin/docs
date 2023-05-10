@@ -19,6 +19,7 @@ Checkout.com | Checkout.com Production Secret Key
 Checkout.com | Checkout.com Test Secret Key
 Clojars | Clojars Deploy Token
 CloudBees CodeShip | CloudBees CodeShip Credential
+Contributed Systems | Contributed Systems Credentials
 Databricks | Databricks Access Token
 Datadog | Datadog API Key
 Discord | Discord Bot Token
@@ -26,6 +27,7 @@ Doppler | Doppler Personal Token
 Doppler | Doppler Service Token
 Doppler | Doppler CLI Token
 Doppler | Doppler SCIM Token
+Doppler | Doppler Audit Token
 Dropbox | Dropbox Access Token
 Dropbox | Dropbox Short Lived Access Token
 Dynatrace | Dynatrace Access Token
@@ -56,6 +58,9 @@ npm | npm Access Token
 NuGet | NuGet API Key
 OpenAI | OpenAI API Key
 Palantir | Palantir JSON Web Token
+PlanetScale | PlanetScale Database Password
+PlanetScale | PlanetScale OAuth Token
+PlanetScale | PlanetScale Service Token
 Plivo | Plivo Auth Token
 Postman | Postman API Key
 Proctorio | Proctorio Consumer Key
